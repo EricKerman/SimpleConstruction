@@ -1,3 +1,9 @@
+
+### Version 4.0.1 KSP [1.4.4] [2018-06-24]
+ - Updated EL to version 6.1.0
+ - Fixed Large Ports
+ - Added Shield ports
+
 ### Version 4.0.0 KSP [1.4.2] [2018-04-07]
 - Updated EL to version 6.0.0
 - Change density of Metal
